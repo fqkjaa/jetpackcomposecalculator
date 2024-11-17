@@ -69,7 +69,7 @@ fun Calculator(
                 )
 
                 CalculatorButton(
-                    symbol = "DEL",
+                    symbol = "del",
                     modifier = Modifier
                         .background(LightGray)
                         .aspectRatio(1f)
